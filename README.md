@@ -6,7 +6,7 @@
 </head>
 <body>
     <h1 style="text-align: center;">¡Hola, soy Francisco Mazzeo! 👋</h1>
-    <p style="text-align: center;">¡Qué onda, papá! Bienvenido a mi perfil de GitHub, ¡qué bueno tenerte por acá! Soy un estudiante de ingeniería en informática en la UBA, fanático mal de Boquita y de las coloradas. 🐔🐔🐔🔪🔪</p>
+    <p style="text-align: center;">¡Qué onda, papá! Bienvenido a mi perfil de GitHub, ¡qué bueno tenerte por acá! Soy un estudiante de ingeniería en informática en la UBA y fanático de Boquita. 🐔🐔🐔🔪🔪</p>
     <div style="text-align: center;">
         <a href="https://www.uba.ar/"><img src="https://img.shields.io/badge/Estudiante-Ingenier%C3%ADa%20en%20Inform%C3%A1tica-blue" alt="Estudiante de Ingeniería en Informática"></a>
         <img src="https://img.shields.io/badge/Lenguajes-C%20%7C%20Python%20%7C%20JavaScript%20%7C%20Bash-yellow" alt="Lenguajes de Programación">
