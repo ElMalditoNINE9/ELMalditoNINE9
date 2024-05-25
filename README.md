@@ -53,7 +53,7 @@
             padding: 20px;
             background: #fff;
             margin-top: 10px;
-            box-shadow: 0 0 10pxrgba(0,0,0,0.1);
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
         }
         footer {
             background: #333;
@@ -62,16 +62,18 @@
             padding: 10px;
             margin-top: 10px;
         }
-        .github-stats {
-            display: flex;
-            justify-content: space-around;
-        }
-        .github-stats img {
-            border-radius: 5px;
-            box-shadow: 0 0 5pxrgba(0,0,0,0.3);
-        }
         .center {
             text-align: center;
+        }
+        .github-stats {
+            display: flex;
+            justify-content: center;
+            margin-top: 20px;
+        }
+        .github-stats img {
+            margin: 0 10px;
+            border-radius: 5px;
+            box-shadow: 0 0 5px rgba(0,0,0,0.3);
         }
     </style>
 </head>
