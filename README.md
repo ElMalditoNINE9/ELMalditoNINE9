@@ -92,13 +92,11 @@
             </nav>
         </div>
     </header>
-
     <div class="container content">
         <section id="about" class="center">
             <h1>¡Hola, soy Francisco Mazzeo! 👋</h1>
             <p>🐔🐔🐔🔪🔪</p>
         </section>
-
         <section id="projects" class="center">
             <h2>Proyectos</h2>
             <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -108,13 +106,11 @@
                 <img src="https://github-readme-stats.vercel.app/api?username=ElMalditoNINE9&show_icons=true&theme=dark" alt="GitHub Stats">
             </div>
         </section>
-
         <section id="contact" class="center">
             <h2>Contacto</h2>
             <p>Puedes encontrar más sobre mi carrera y mis proyectos en mi <a href="https://www.notion.so/tu-link-a-la-pagina-de-notion" target="_blank">página de Notion</a>.</p>
         </section>
     </div>
-
     <footer>
         <p>ElMalditoNINE9 &copy; 2024</p>
     </footer>
