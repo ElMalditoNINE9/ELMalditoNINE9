@@ -22,8 +22,5 @@
     <p>Algunas resumen de materias que he estudiado en la facultad. Puedes encontrarlos haciendo clic <a href="https://www.notion.so/Cosas-de-la-facultad-2fc0917ada2040eea9ac209ae667c1a5" target="_blank">aquí</a>.</p>
 </section>
     </div>
-    <footer>
-        <p>ElMalditoNINE9 &copy; 2024</p>
-    </footer>
 </body>
 </html>
