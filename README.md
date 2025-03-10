@@ -18,8 +18,6 @@
         </section>
         <section id="contact" class="center">
            <section id="notion" class="center">
-    <h2>Resumen de Materias en Notion</h2>
-    <p>Algunas resumen de materias que he estudiado en la facultad. Puedes encontrarlos haciendo clic <a href="https://www.notion.so/Cosas-de-la-facultad-2fc0917ada2040eea9ac209ae667c1a5" target="_blank">aquí</a>.</p>
 </section>
     </div>
 </body>
